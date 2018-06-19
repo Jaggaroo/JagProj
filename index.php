@@ -4,6 +4,6 @@
 	} else {
 		$uri = 'http://';
 	}
-echo "Hi James"
+echo "Hi James<br> This is a test <br>"
 ?>
 Something is working with the XAMPP installation :-)
