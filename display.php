@@ -13,13 +13,16 @@
 <meta name="author" content="John Green PO1 ret'd">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Main Display</title>
-<link rel="stylesheet" href="css/cadetQuiz.css">
+<link rel="stylesheet" href="/css/cadetQuiz.css">
+<!-- <style>
+body {
+    background-image: url("images/EmergencyStationsFlashPage.png");"
+}
+</style> -->
+
 
 </head>
-<body>
-
-<h1>This is where the actual action happens</h1>
-<p>But it needs work</p>
+<body background="images/EmergencyStationsFlashPage.png">
 
 
 
